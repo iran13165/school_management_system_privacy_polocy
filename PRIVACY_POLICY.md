@@ -156,7 +156,7 @@ If you are a resident of the European Economic Area (EEA), you have additional r
 - **Right to Object**: Object to data processing based on legitimate interests
 - **Right to Withdraw Consent**: Withdraw consent at any time
 
-To exercise these rights, contact us at iranchoudhury@example.com.
+To exercise these rights, contact us at iranchoudhury@gmail.com.
 
 ## California Privacy Rights (CCPA)
 
@@ -173,7 +173,7 @@ If you have questions, concerns, or requests regarding this Privacy Policy or yo
 
 **Developer**: Iran Choudhury  
 **Email**: iranchoudhury@gmail.com  
-**GitHub**: https://github.com/iran13165/student_fees_tracker  
+**GitHub**: https://github.com/iran13165/school_management_system_privacy_polocy 
 **Response Time**: We aim to respond within 48 hours
 
 ## Data Deletion Instructions
